@@ -1,12 +1,14 @@
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
-.App{
-  text-align: center;
-  padding-top: 30px;
+
+.App {
+    text-align: center;
+    padding-top: 30px;
 }
-h1{
-  padding: 20px 0;
+
+h1 {
+    padding: 20px 0;
 }
